@@ -7,14 +7,28 @@
 4. Дмитрий Ким
 
 Задание 4
-Построение изохрон и их визуализация выполнена в файле Task4/Задание4.ipynb
+Построение изохрон и их визуализация выполнена в файле [Task4](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/Task4.ipynb)
+
 Изохрона 10-минутной пешеходной доступности
+![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/81c838cd-7066-42cd-9e03-ae1a050c2010)
+
 Изохрона 5-минутной автомобильной доступности
+![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/17c34093-6931-46ee-811a-b14b05eef21f)
+
 Изохрона 20-минутной доступности на общественном транспорте
+![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/9b1a2f9e-e715-44c1-a376-1105dc0eae03)
 
 Здания в пешеходной изохроне
-Task4\data_output\buildings_in_walk.geojson
+[buildings_in_walk](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/data_output/buildings_in_walk.geojson)
+
+![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/b552ebb1-4d81-4b66-a7a5-071de9554efe)
+
 Здания в автомобильной изохроне
-Task4\data_output\buildings_in_drive.geojson
+[buildings_in_drive](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/data_output/buildings_in_drive.geojson)
+
+![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/c4b85a12-424b-4915-a27c-5480c0e6fe91)
+
 Здания в изохроне общественного транспорта
-Task4\data_output\buildings_in_pb.geojson
+[buildings_in_pb](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/data_output/buildings_in_pb.geojson)
+
+![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/7a858632-2408-4bdc-9336-1f5749692bc9)
