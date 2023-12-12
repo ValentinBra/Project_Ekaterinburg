@@ -1,1 +1,1 @@
-# Project_Ekaterinburg
+# Модель города Екатертнбург
