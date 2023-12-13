@@ -36,3 +36,4 @@
 
 ## Задание 5
 5.1 Оценка многообразия школ в кварталах города Екатеринбург
+![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/70354331-aad2-43fa-88ca-b8fc24ec4883)
