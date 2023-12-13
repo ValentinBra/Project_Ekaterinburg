@@ -7,8 +7,9 @@
 4. Дмитрий Ким
 
 ## Задание 3
-Пример визуализации для Чкаловского района города Екатеринбурга
-Код кластеризации доступен в файле [Task3](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/Сlustering_Space_Matrix.ipynb)
+Пример визуализации для Чкаловского района города Екатеринбурга.
+1. Код кластеризации доступен в файле [Task3](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/Сlustering_Space_Matrix.ipynb)
+2. Карта Space Matrix досутпна в файле [Task3](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/space_matrix.html)
 <img width="729" alt="Снимок экрана 2023-12-13 в 23 21 01" src="https://github.com/ValentinBra/Project_Ekaterinburg/assets/74907402/5cffe13f-43da-4406-beb2-93d7e0e3a276">
 
 ## Задание 4
