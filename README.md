@@ -33,3 +33,6 @@
 [buildings_in_pb](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/data_output/buildings_in_pb.geojson)
 
 ![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/7a858632-2408-4bdc-9336-1f5749692bc9)
+
+## Задание 5
+5.1 Оценка многообразия школ в кварталах города Екатеринбург
