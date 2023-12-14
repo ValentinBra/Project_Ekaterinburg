@@ -13,7 +13,13 @@
 <img width="729" alt="Снимок экрана 2023-12-13 в 23 21 01" src="https://github.com/ValentinBra/Project_Ekaterinburg/assets/74907402/5cffe13f-43da-4406-beb2-93d7e0e3a276">
 
 <br/> Кластеризация сервисов.
-Для кластеризации выбрано 5 типов сервисов: банк, школа, фитнес клуб, кинотеатр, отель.
+Для кластеризации выбрано 5 типов сервисов: 
+* банк; 
+* школа; 
+* фитнес-клуб;
+* кинотеатр;
+* отель.
+
 1. Код кластеризации доступен в файле [Сluster_services](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/Сluster_services.ipynb)
 2. Карта с кластеризацией досутпна в файле [clusters_satellite](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/space_matrix.html)
 <img width="1439" alt="Снимок экрана 2023-12-14 в 04 22 33" src="https://github.com/ValentinBra/Project_Ekaterinburg/assets/74907402/9757c0a5-946e-4671-b5d1-e41f6c52af63">
