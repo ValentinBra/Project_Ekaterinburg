@@ -56,3 +56,6 @@
 ## Задание 5
 5.1 Оценка многообразия школ в кварталах города Екатеринбург
 ![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/70354331-aad2-43fa-88ca-b8fc24ec4883)
+5.2 SFCA
+<img width="1334" alt="Снимок экрана 2023-12-19 в 17 04 37" src="https://github.com/ValentinBra/Project_Ekaterinburg/assets/74907402/47335eb3-8ed5-4b95-9591-c9c8bb852fdb">
+
