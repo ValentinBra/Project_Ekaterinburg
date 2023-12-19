@@ -67,6 +67,8 @@
 Изохрона 20-минутной доступности на общественном транспорте
 ![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/9b1a2f9e-e715-44c1-a376-1105dc0eae03)
 
+#Получение зданий по изохроне
+
 Здания в пешеходной изохроне
 [buildings_in_walk](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/data_output/buildings_in_walk.geojson)
 
