@@ -17,12 +17,23 @@
 
 
 ## Задание 3
+
+Для кластеризации подготавливаем .geojson файлы с информацией о:
+	 — зданиях (жилых и нежилых), согласно спецификации CityGeoTools/data_specification/spacematrix/Buildings.json.
+	 — кварталах, согласно спецификации  CityGeoTools/data_specification/spacematrix/Blocks.json.
+	 — городских сервисах, согласно спецификации CityGeoTools/data_specification/services_clusterization/Services.json.
+
+Загружаем файлы в модель города, которую создали на первом этапе. 
+
+<br/> Кластеризация кварталов.
+Проводим кластеризацию кварталов с помощью метода SpaceMatrix из библиотеки и визуализируем результаты.
+
 Пример визуализации для Чкаловского района города Екатеринбурга.
 1. Код кластеризации доступен в файле [Сlustering_Space_Matrix](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/Сlustering_Space_Matrix.ipynb)
 2. Карта Space Matrix досутпна в файле [space_matrix](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/clusters_satellite.html)
 <img width="729" alt="Снимок экрана 2023-12-13 в 23 21 01" src="https://github.com/ValentinBra/Project_Ekaterinburg/assets/74907402/5cffe13f-43da-4406-beb2-93d7e0e3a276">
 
-<br/> Кластеризация сервисов.
+<br/> Кластеризация сервисов для выявления городских "подцентров".
 Для кластеризации выбрано 5 типов сервисов: 
 * банк; 
 * школа; 
