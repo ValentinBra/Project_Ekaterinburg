@@ -36,11 +36,11 @@
 
 <h3/>Кластеризация сервисов для выявления городских "подцентров"</h3>
 <br/>Для кластеризации выбрано 5 типов сервисов: 
-* банк; 
-* школа; 
-* фитнес-клуб;
-* кинотеатр;
-* отель.
+<br/>* банк; 
+<br/>* школа; 
+<br/>* фитнес-клуб;
+<br/>* кинотеатр;
+<br/>* отель.
 
 1. Код кластеризации доступен в файле [Сluster_services](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/Сluster_services.ipynb)
 2. Карта с кластеризацией досутпна в файле [clusters_satellite](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task3/space_matrix.html)
