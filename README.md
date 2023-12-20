@@ -35,7 +35,9 @@
 <img width="729" alt="Снимок экрана 2023-12-13 в 23 21 01" src="https://github.com/ValentinBra/Project_Ekaterinburg/assets/74907402/5cffe13f-43da-4406-beb2-93d7e0e3a276">
 
 <h3/>Кластеризация сервисов для выявления городских "подцентров"</h3>
+
 <br/>Для кластеризации выбрано 5 типов сервисов: 
+
 <br/>* банк; 
 <br/>* школа; 
 <br/>* фитнес-клуб;
@@ -56,7 +58,8 @@
 * 5-минутной автомобильной доступности ;
 * 20-минутной доступности на общественном транспорте ; 
 
-Построение изохрон и их визуализация выполнена в файле [Task4](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/Task4.ipynb)
+<h3/>Построение изохрон</h3>
+Получение изохрон и их визуализация выполнена в файле [Task4](https://github.com/ValentinBra/Project_Ekaterinburg/blob/main/Task4/Task4.ipynb)
 
 Изохрона 10-минутной пешеходной доступности
 ![image](https://github.com/ValentinBra/Project_Ekaterinburg/assets/115021474/81c838cd-7066-42cd-9e03-ae1a050c2010)
